@@ -20,5 +20,5 @@ venv/
 Thumbs.db
 
 # dataset & data
-data/cifar-100-python/      # 忽略整个样本数据文件夹
-data/*.tar.gz               # 忽略压缩包
+data/cifar-100-python/
+data/*.tar.gz
